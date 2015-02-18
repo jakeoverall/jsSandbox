@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$('#userScript').codeblock({
 		runButtonText: 'Test',
-		consoleText: "You answer should show up here",
+		consoleText: "console output",
 		editorTheme: "ace/theme/dawn"
 	});
 

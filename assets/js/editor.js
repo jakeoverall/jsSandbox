@@ -2,7 +2,7 @@ $(document).ready(function(){
 	$('#userScript').codeblock({
 		runButtonText: 'Test',
 		consoleText: "console output",
-		editorTheme: "ace/theme/dawn"
+		editorTheme: "ace/theme/bcw"
 	});
 
 	$('body').on('click', '#next', function (e) {
